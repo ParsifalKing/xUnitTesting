@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Classworks\\Classwork 34\\WebApi\\wwwroot\\images\\21a01585-11ba-4038-8531-90fbf4776057",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Classworks\\Classwork 34\\WebApi\\wwwroot\\images\\4f8f7069-03f2-44ff-bb62-661ca6285f72.jpg",
+      "PackagePath": "staticwebassets\\images\\4f8f7069-03f2-44ff-bb62-661ca6285f72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Classworks\\Classwork 34\\WebApi\\wwwroot\\images\\718f3f74-e141-48d9-9d6e-bc31d80b4341.jpg",
+      "PackagePath": "staticwebassets\\images\\718f3f74-e141-48d9-9d6e-bc31d80b4341.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Classworks\\Classwork 34\\WebApi\\wwwroot\\images\\7fa9d1c0-c7a4-4eb1-b2ed-eba6e82f51a8",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Classworks\\Classwork 34\\WebApi\\wwwroot\\images\\a5c3de24-e072-43ed-99ce-5d5184b562ae.jpg",
+      "PackagePath": "staticwebassets\\images\\a5c3de24-e072-43ed-99ce-5d5184b562ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Classworks\\Classwork 34\\WebApi\\wwwroot\\images\\c4219a72-cf87-477f-b98b-1613993729af",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
